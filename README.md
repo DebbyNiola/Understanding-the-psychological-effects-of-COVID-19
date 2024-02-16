@@ -9,7 +9,7 @@
 ## Data Sourcing
 Our data was downloaded as a .csv file from Kaggle.  It’s a data collected in 2020 to help understand people’s opinion of the lockdown. It was collected using Google forms.
 
-For the data source link
+For the original data file
 [Click here](https://www.kaggle.com/datasets/hemanthhari/psycological-effects-of-covid)
 
 Metadata (this contains the definition of each column content) as posted by Hemanth Harikrishnan on Kaggle.
