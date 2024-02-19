@@ -5,9 +5,15 @@
 ## Introduction
 
 ## Executive Summary
+The pandemic was the first of its kind and definitely was quite the experience for the human race. It is understandable that we would like to understand its impact psychologically on us. We can use this understanding as a learning experience to avoid such shock repeating a second time.
+
+This survey tries to understand how humans were affected by the pandemic psychologically, certain questions were designed to measure this effect. With a total of 1,175 responses from people of different works in life, age and gender as our sample data.
+After analyzing the data, we see that people were able to work more during the pandemic than before it. This could have been the result of many factors; too much time, and people looking for purpose in that chaos. People trying to adapt to a new system and make the most of it.
+
+We also saw that a larger percentage of males adapted easier psychologically to the pandemic when compared to the female gender. This is different, compared to popular opinion that women are able to adapt better to situations.
 
 ## Data Sourcing
-Our data was downloaded as a .csv file from Kaggle.  It’s a data collected in 2020 to help understand people’s opinion of the lockdown. It was collected using Google forms.
+Our data was downloaded as a .csv file from Kaggle.  It’s a data collected in 2020 to help understand people’s opinion of the effects of the pandemic. It was collected using Google forms.
 
 For the original data file
 [Click here](https://www.kaggle.com/datasets/hemanthhari/psycological-effects-of-covid)
