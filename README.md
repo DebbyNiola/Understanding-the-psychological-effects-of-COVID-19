@@ -2,13 +2,11 @@
 
 
 
-## Introduction
-
 ## Executive Summary
-The pandemic was the first of its kind and definitely was quite the experience for the human race. It is understandable that we would like to understand its impact psychologically on us. We can use this understanding as a learning experience to avoid such shock repeating a second time.
+The pandemic was the first of its kind and definitely was quite the experience for the human race. It is understandable that we would like to understand its impact psychologically on us. We can use this knowledge as a learning experience to avoid such shock repeating a second time.
 
 This survey tries to understand how humans were affected by the pandemic psychologically, certain questions were designed to measure this effect. With a total of 1,175 responses from people of different works in life, age and gender as our sample data.
-After analyzing the data, we see that people were able to work more during the pandemic than before it. This could have been the result of many factors; too much time, and people looking for purpose in that chaos. People trying to adapt to a new system and make the most of it.
+The analysis was done  using Microsoft Excel. After analyzing the data, we see that people were able to work more during the pandemic than before it. This could have been the result of many factors; too much time, and people looking for purpose in that chaos. People trying to adapt to a new system and make the most of it.
 
 We also saw that a larger percentage of males adapted easier psychologically to the pandemic when compared to the female gender. This is different, compared to popular opinion that women are able to adapt better to situations.
 
@@ -43,18 +41,18 @@ Metadata (this contains the definition of each column content) as posted by Hema
 ## Data Cleaning
 Most of the data cleaning was done on the Power query extension of Microsoft Excel.
 We started off by renaming some columns. This can be done on excel or query. The old and new names are given below
-- age: Age Group
-- gender: Gender
-- occupation: Occupation
-- time_bp: Time Before Pandemic
-- time_dp: Time During Pandemic
-- easeof_online: Ease of Online Work
-- home_env : Home environment
-- prod_inc: Productivity Increase
-- sleep_bal: Sleep Balance
-- new_skill: New Skill
-- fam_connect : Family Connection
-- self_time: Self Time
+- **age**: Age Group
+- **gender**: Gender
+- **occupation**: Occupation
+- **time_bp**: Time Before Pandemic
+- **time_dp**: Time During Pandemic
+- **easeof_online**: Ease of Online Work
+- **home_env**: Home environment
+- **prod_inc**: Productivity Increase
+- **sleep_bal**: Sleep Balance
+- **new_skill**: New Skill
+- **fam_connect**: Family Connection
+- **self_time**: Self Time
 
 In the ‘Age’ column the values ‘Dec-18’ which was a formatting error was replaced with ‘12-18’. This was done after looking carefully at the categories in that column and also Dec is 12 in numbers.
 
@@ -78,6 +76,9 @@ Our dashboard shows a summary view of our tables. With slicers at the left of th
 
 ## Results 
 GENERAL
+
+![](General_dashboard.png)
+
 Generally, there was a 7.4% increase in the average work hours of the respondents.
 Over half of the participants didn’t find transitioning into remote work easy. 
 A great percentage of the respondents were indifferent about their home environment, another large percentage disagree to liking their home environment, and a lesser percentage like their home environment.
@@ -87,7 +88,12 @@ A little over half the participants learnt a new skill during the pandemic, whil
 Over a quarter of respondents answered neutral to having more self-time and relaxation.
 About 45% of the respondents saw a decrease in their sleep balance, and about 32% saw an increase in their sleep balance.
 You can refer to the charts and tables for more information.
+
 GENDER
+
+![](Males_dashboard.png)
+![](Females_dashboard.png)
+
 Generally, males found the transition of working in the pandemic easier compared to females. This conclusion was gotten after comparing the percentages of responses by gender.
 Males found it easier to work online compared to females, as only 45% of them replied in the negative, with 61% for the females.
 More females than males disliked their home environment. An almost equal percentage of both genders agreed to connecting more to their families.
